@@ -1,7 +1,6 @@
-#IP to Location - IP-Standort // M4T01Picker
-### A simple IP locator tool  made by M4T01
-
-
+#IP to Location - IP-Standort - Android
+### A simple IP locator tool
+With this tool you can locate your IP address or other IP addresses in Termux, Android and then display them in Google Maps.
 
 
 
