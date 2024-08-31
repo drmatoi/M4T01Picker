@@ -24,20 +24,19 @@ class IPAddressLocator:
     def start(self):
         os.system('clear')
         print(self.CY + """
-       IP PICKER BY M4T01 - 3x WELL|  """ + self.Y + """Version 1.0""" + self.G + """
+       IP/Domain Locator - Made for Termux|  """ + self.Y + """Release:V2.1.0""" + self.G + """
         
         
-        Simple IP Address locator
         
-        """ + self.R + """>>""" + self.Y + """----""" + self.CY + """ Finde die W+xxer" """ + self.Y + """----""" + self.R + """<<""")
+        """ + self.R + """!!>>""" + self.Y + """----""" + self.CY + """ github.com/drmatoi/M4T01Picker" """ + self.Y + """----""" + self.R + """<<!!""")
 
     def m3(self):
         try:
             print(self.R + """\n
     #""" + self.Y + """ Select option""" + self.G + """ >>""" + self.Y + """
     
-    1)""" + self.G + """ Check your IP info""" + self.Y + """
-    2)""" + self.G + """ Check other IP info""" + self.Y + """
+    1)""" + self.G + """ My IP-Adress""" + self.Y + """
+    2)""" + self.G + """ Check other IP/Domain info""" + self.Y + """
     3)""" + self.G + """ Exit
     """)
             ch = int(input(self.CY + "Enter Your choice: " + self.W))
