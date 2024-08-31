@@ -1,5 +1,6 @@
-# M4T01Picker
-### A simple IP locator tool modded by M4T01
+#IP to Location - IP-Standort // M4T01Picker
+### A simple IP locator tool  M4T01
+
 
 
 
@@ -20,11 +21,10 @@ python3 ipicker.py
 
 - Get your IP address info
 - Get any website's IP Address info
-- Open IP address loaction from your browser and Google Maps
+- Open IP loaction in your Browser
 
 ## Tested On
-
-- Termux
+MADE FOR TERMUX - LAST TEST: 31.08.202
 
 
 
