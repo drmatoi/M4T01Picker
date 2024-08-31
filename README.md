@@ -36,4 +36,3 @@ python3 ipicker.py
 
 ### If there is an issue in this tool, report [here](https://t.me/drmatoi)
 
-
